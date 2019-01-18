@@ -1,4 +1,4 @@
-package filter;
+package com.dfm.apigateway.filter;
 
 import javax.servlet.http.HttpServletRequest;
 
